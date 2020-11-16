@@ -1,0 +1,2 @@
+# Configuraciones-
+Extenciones de vscode
